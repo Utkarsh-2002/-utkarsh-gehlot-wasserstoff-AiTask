@@ -1,0 +1,8 @@
+faiss-cpu
+numpy
+sentence-transformers
+Flask
+Flask-Cors
+transformers
+mysql-connector
+beautifulsoup4
